@@ -24,6 +24,6 @@ California, thanks to Silicon Valley, and Massacchusstes have had a surge in sea
 
 ### Comparison across 3 states for in person jobs
 
-3 states, CA, MA, MS have a very similary dynamics on the searches of "Jobs Near Me" which dips after the lockdowns but still did not recovered yet to pre-covid levels. 
+3 states, CA, MA and MS have a very similary dynamics on the searches of "Jobs Near Me" which dips after the lockdowns but still did not recovered yet to pre-covid levels. 
 
 ![3 states: MA, CA, MS](Jobs_Near_Me_by_State.png)
