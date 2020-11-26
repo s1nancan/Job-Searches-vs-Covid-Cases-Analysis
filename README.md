@@ -6,4 +6,5 @@ I have utilized pytrends to get search popularity from Google:  https://pypi.org
 
 Covid-19 cases in US is obtained from: https://covidtracking.com/data/download
 
-<img src=“https://github.com/s1nancan/Job-Searches-vs-Covid-Cases-Analysis/blob/main/Job%20Search%20Trends.png”>
+![US General]
+(https://github.com/s1nancan/Job-Searches-vs-Covid-Cases-Analysis/blob/main/Job%20Search%20Trends.png)
