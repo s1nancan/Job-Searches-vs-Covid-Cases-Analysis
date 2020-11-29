@@ -20,10 +20,10 @@ Corona cases peaking as known to everyone. The online job searches has peaked in
 
 California, thanks to Silicon Valley, and Massacchusstes have had a surge in searches for online jobs after the Covid-19 lockdowns started, which is not suprising given the population dynamics of urban, highly educated young millenials. On the other hand, more rural state such as Mississippi has not seen any surge in searches in "online job". I am curious to examine the reasons. 
 
-![3 states: MA, CA, MS](online jobs.png)
+![3 states: MA, CA, MS](online_jobs.png)
 
 ### Comparison across 3 states for in person jobs
 
 3 states, CA, MA and MS have a very similary dynamics on the searches of "Jobs Near Me" which dips after the lockdowns but still did not recovered yet to pre-covid levels. 
 
-![3 states: MA, CA, MS](inperson_jobs.png)
+![3 states: MA, CA, MS](in person jobs.png)
